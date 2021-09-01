@@ -34,7 +34,9 @@ return 0;
 }
 
 
-  PLEASE LIKE SHARE AND SUBSCRIBE 
+  //PLEASE LIKE SHARE AND SUBSCRIBE 
+
+//The loop is infinite while loop used here. Be careful when practising it.
 
 
 
