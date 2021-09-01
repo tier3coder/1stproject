@@ -29,7 +29,8 @@ int main ()
          cout<<"*";}
          cout<<"\n";
     }
-    
+                                                   //PLEASE LIKE SHARE AND SUBSCRIBE 
+                                 //The loop is infinite while loop used here. Be careful when practising it.
     l-=3;
     m=l;
     
@@ -57,5 +58,4 @@ int main ()
 
 
 
-                //PLEASE LIKE SHARE AND SUBSCRIBE 
-                //The loop is infinite while loop used here. Be careful when practising it.
+               
